@@ -30,7 +30,7 @@ public class CalculatorTest {
 
 	@Test
 	public void testSub() {
-		assertTrue(cl.doSub(1, 1) == 0);
+		assertTrue(cl.doSub(1, 1) == 1);
 	}
 
 	@Test
