@@ -1,0 +1,6 @@
+projectKey=CI_1
+serverUrl=http://localhost:8000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:8000/dashboard?id=CI_1
+ceTaskId=ddd86968-520f-4c1f-b084-af912f4ac0ad
+ceTaskUrl=http://localhost:8000/api/ce/task?id=ddd86968-520f-4c1f-b084-af912f4ac0ad
